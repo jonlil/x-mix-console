@@ -1,0 +1,11 @@
+{
+    "name": "x-mixer-console",
+    "version": "0.1.0",
+    "main": "main.js",
+    "dependencies": {
+        "lodash": "^4.17.4",
+        "midi": "^0.9.5",
+        "osc": "^2.2.0"
+    },
+    "devDependencies": {}
+}
